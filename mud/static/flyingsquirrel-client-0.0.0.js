@@ -1,7 +1,7 @@
 /* Requires socket.io:
 
  <script type="text/javascript"
-         src="http://cdn.socket.io/stable/socket.io.js"></script>
+         src="https://cdn.socket.io/stable/socket.io.js"></script>
 
  * Basic usage:
 

@@ -187,7 +187,7 @@
         "pk": 4, 
         "model": "core.char", 
         "fields": {
-            "description": "Is flying around, whispering to himself:\r\n   http://identi.ca/theinsanebird\r\nThe Bird looks at you and says: I tell you nothing!", 
+            "description": "Is flying around, whispering to himself:\r\n   https://identi.ca/theinsanebird\r\nThe Bird looks at you and says: I tell you nothing!", 
             "is_npc": true, 
             "modified": "2011-06-07 07:14:43", 
             "nick": "Bird", 

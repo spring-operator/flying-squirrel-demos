@@ -12,7 +12,7 @@ body {
 }
 
 #box {
-    /* http://foohack.com/2007/11/cross-browser-support-for-inline-block-styling/ */
+    /* https://izs.me/ */
     display:-moz-inline-stack;
     display:inline-block;
     zoom:1;

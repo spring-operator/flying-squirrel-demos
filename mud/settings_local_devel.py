@@ -8,7 +8,7 @@ DATABASES = {
 }
 
 ## Url of a valid flyingsquirrel instance.
-SQUIRRUS_URL='http://guest:guest@localhost:55670/socks-api/default'
+SQUIRRUS_URL='https://guest:guest@localhost:55670/socks-api/default'
 ## Url flyingsquirrel will callback.
 SQUIRRUS_LOCAL_URL='http://127.0.0.1:8000/'
 
